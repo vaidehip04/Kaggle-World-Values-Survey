@@ -8,4 +8,4 @@
 
 # The version we use here is a little bit simplified, I have removed a large number of variables that are constructed from the other variables and hence highly collinear with the rest of the data.
 
-# The problem set has two parts: first you try to get as good a prediction as you can using k-NN, logistic regression and SVM methods, and thereafter you analyze how much does knowledge of country of the respondent improve our prediction.
+# The problem set has two parts: first you try to get as good a prediction as you can using k-NN, logistic regression and SVM methods, and thereafter we will learn about reguarization.
